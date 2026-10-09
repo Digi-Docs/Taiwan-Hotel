@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://taiwanhotel.co.tz/</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hero-slide-1-pool.jpg</image:loc>
+      <image:title>Taiwan Hotel Mwanza rooftop pool deck and signage</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hero-slide-3-gym.jpg</image:loc>
+      <image:title>Fitness gym at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hero-slide-4-garden.jpg</image:loc>
+      <image:title>Garden entrance corridor at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hotel-taiwan-mwanza-lounge-welcome.jpg</image:loc>
+      <image:title>Lounge seating area at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hotel-taiwan-mwanza-garden-walkway.jpg</image:loc>
+      <image:title>Garden courtyard walkway at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taiwanhotel.co.tz/rooms.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/room-deluxe-poster.jpg</image:loc>
+      <image:title>Deluxe Room at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/room-double-poster.jpg</image:loc>
+      <image:title>Double Room at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/room-twin-poster.jpg</image:loc>
+      <image:title>Twin Room at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/room-triple-poster.jpg</image:loc>
+      <image:title>Triple Room at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/room-single-poster.jpg</image:loc>
+      <image:title>Single Room at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taiwanhotel.co.tz/amenities.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hotel-taiwan-mwanza-rooftop-swimming-pool.jpg</image:loc>
+      <image:title>Rooftop swimming pool at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hotel-taiwan-mwanza-fitness-gym.jpg</image:loc>
+      <image:title>Fitness gym at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hotel-taiwan-mwanza-reception-service-moment.jpg</image:loc>
+      <image:title>Front desk staff assisting a guest at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taiwanhotel.co.tz/dining.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/Localinternationaldishes.jpeg</image:loc>
+      <image:title>Local and international dishes at Taiwan Hotel Mwanza</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taiwanhotel.co.tz/events.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://taiwanhotel.co.tz/hotel-taiwan-mwanza-lounge-seating-area.jpg</image:loc>
+      <image:title>Lounge seating area at Taiwan Hotel Mwanza, set up for private celebrations</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://taiwanhotel.co.tz/contact.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

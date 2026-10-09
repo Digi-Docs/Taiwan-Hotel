@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /*?*form-name=
+Disallow: /*.json$
+
+Sitemap: https://taiwanhotel.co.tz/sitemap.xml
